@@ -22,6 +22,7 @@ namespace AnimationToolkit
         public frmMain()
         {
             InitializeComponent();
+            MessageBox.Show("huhu");
         }
 
         private void frmMain_Load(object sender, EventArgs e)
