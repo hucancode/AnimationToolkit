@@ -22,7 +22,7 @@ namespace AnimationToolkit
         public frmMain()
         {
             InitializeComponent();
-            MessageBox.Show("huhu");
+            MessageBox.Show("this message editted from local");
         }
 
         private void frmMain_Load(object sender, EventArgs e)
