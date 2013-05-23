@@ -23,6 +23,7 @@ namespace AnimationToolkit
         {
             InitializeComponent();
             MessageBox.Show("message editted from local");
+            MessageBox.Show("message editted from remote");
         }
 
         private void frmMain_Load(object sender, EventArgs e)
